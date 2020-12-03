@@ -1,7 +1,7 @@
 name: Fudan Daily
 
 on:
-  schedule:
+  schedule:  00:00
     - cron: '40 03 * * *'
 
 jobs:
